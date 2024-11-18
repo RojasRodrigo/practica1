@@ -1,3 +1,9 @@
+# Prerrequisitos
+
+- Tener instalado .NET SDK 6 o superior.
+- Conocimientos básicos de .NET y programación en C#.
+- Acceso a una terminal de Windows, Linux o macOS.
+
 # Compilación y ejecución
 
 ## Compilación
