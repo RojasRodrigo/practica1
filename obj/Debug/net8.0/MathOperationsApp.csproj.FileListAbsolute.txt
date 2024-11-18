@@ -1,0 +1,14 @@
+C:\Users\rodrigo.rojas\Desktop\practica CSharp\MathOperationsApp\bin\Debug\net8.0\MathOperationsApp.exe
+C:\Users\rodrigo.rojas\Desktop\practica CSharp\MathOperationsApp\bin\Debug\net8.0\MathOperationsApp.deps.json
+C:\Users\rodrigo.rojas\Desktop\practica CSharp\MathOperationsApp\bin\Debug\net8.0\MathOperationsApp.runtimeconfig.json
+C:\Users\rodrigo.rojas\Desktop\practica CSharp\MathOperationsApp\bin\Debug\net8.0\MathOperationsApp.dll
+C:\Users\rodrigo.rojas\Desktop\practica CSharp\MathOperationsApp\bin\Debug\net8.0\MathOperationsApp.pdb
+C:\Users\rodrigo.rojas\Desktop\practica CSharp\MathOperationsApp\obj\Debug\net8.0\MathOperationsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodrigo.rojas\Desktop\practica CSharp\MathOperationsApp\obj\Debug\net8.0\MathOperationsApp.AssemblyInfoInputs.cache
+C:\Users\rodrigo.rojas\Desktop\practica CSharp\MathOperationsApp\obj\Debug\net8.0\MathOperationsApp.AssemblyInfo.cs
+C:\Users\rodrigo.rojas\Desktop\practica CSharp\MathOperationsApp\obj\Debug\net8.0\MathOperationsApp.csproj.CoreCompileInputs.cache
+C:\Users\rodrigo.rojas\Desktop\practica CSharp\MathOperationsApp\obj\Debug\net8.0\MathOperationsApp.dll
+C:\Users\rodrigo.rojas\Desktop\practica CSharp\MathOperationsApp\obj\Debug\net8.0\refint\MathOperationsApp.dll
+C:\Users\rodrigo.rojas\Desktop\practica CSharp\MathOperationsApp\obj\Debug\net8.0\MathOperationsApp.pdb
+C:\Users\rodrigo.rojas\Desktop\practica CSharp\MathOperationsApp\obj\Debug\net8.0\MathOperationsApp.genruntimeconfig.cache
+C:\Users\rodrigo.rojas\Desktop\practica CSharp\MathOperationsApp\obj\Debug\net8.0\ref\MathOperationsApp.dll
